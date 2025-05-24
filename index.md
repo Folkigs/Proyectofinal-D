@@ -1,6 +1,6 @@
-# Proyecto Final - Métodos Computacionales
+# Proyecto Final - Programacion númerica
 
-Este sitio web contiene todos los códigos desarrollados durante el semestre en las materias de métodos numéricos y ecuaciones diferenciales. Aquí se incluyen implementaciones en Python y Matlab.
+aqui tan las tareas de progra :D (apenas llegue de trabajar xD lo siento si esta muy basica la pagina)
 
 ---
 
