@@ -1,0 +1,20 @@
+title: Proyecto de Métodos Numéricos
+description: Página web con los códigos, gráficas y explicaciones de las tareas del semestre.
+theme: minima
+
+# Personalización de colores y fuente
+minima:
+  skin: dark
+  font:
+    heading: "Arial Black"
+    body: "Segoe UI"
+
+# Mostrar enlaces de navegación (si decides usar varias páginas)
+header_pages:
+  - index.md
+
+# Extras opcionales
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
